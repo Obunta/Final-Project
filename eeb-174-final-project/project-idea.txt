@@ -1,0 +1,69 @@
+Truong, Patrick
+
+
+Final Project Proposal
+
+
+Traumatic brain injury and stroke can lead to paralysis. I hypothesize that by electrically stimulating the spinal cord, the severity of stroke symptoms can be alleviated by strengthening surviving motor connections. To test this, I will analyze and measure EMG muscle data obtained from rats reaching for a lever pre- and post- surgery. This data will provide insights into further understanding stroke rehabilitation and recovery from paralysis.
+
+ 
+
+Project Overview:
+
+ 
+
+Extract data from reaching box
+
+            Max pulls
+
+            Number of successes
+
+            Number of pulls
+
+ 
+
+            Identify errors
+
+                        Number of pulls jumping rapidly
+
+ 
+
+Use EMG data
+
+            Number pulls
+
+ 
+
+            Identify errors
+
+                        Number of pulls jumping rapidly
+
+ 
+
+Plot
+
+            Each animal
+
+                        Force (max) at each time point
+
+                        Average number of pulls per success
+
+           
+
+Each group
+
+                        Force (max) at each time point
+
+                        Average number of pulls per success
+
+ 
+
+Plots should include
+
+                                    Error bars
+
+                                    Significance
+
+ 
+
+Data for this project has been collected and recorded as part of directed research under Lisa Moore and Dr. Daniel C. Lu at the Neuroplasticity and Repair Laboratory in the Department of UCLA Neurosurgery. I will be using python, R, and shell to manipulate text data and perform necessary operations. Statistical analysis and visualization of data will be done in R. A final report will be drafted in markdown or latex with commented code and embedded figures. The project will include a history of version control and a short presentation will be given.
